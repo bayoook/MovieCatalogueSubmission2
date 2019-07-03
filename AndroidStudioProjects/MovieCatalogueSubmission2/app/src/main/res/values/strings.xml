@@ -1,13 +1,187 @@
 <resources>
-    <string name="app_name">MovieCatalogueSubmission2</string>
+    <string name="app_name">indoXXi</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="movies">MOVIES</string>
-    <string name="tv_show">TV SHOW</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">TV Show</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="tvFragment">TV Fragment</string>
-    <string name="asd">asd</string>
+    <string name="nama_film">Nama Film</string>
+    <string name="deskripsi">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</string>
+    <string name="genre">Genre1, Genre2, Genre3</string>
+    <string name="genres">Genres</string>
+    <string name="date">Released 14 November 1997</string>
+    <string name="lang">Original Language</string>
+    <string name="lang_2">Bahasa</string>
+    <string name="run">Runtime</string>
+    <string name="run_2">00h 00m</string>
+    <string name="budg">Budget</string>
+    <string name="budg_2">$xx.xxx.xxx,xx</string>
+    <string name="cast1">Rizqi Mubarak</string>
+    <string name="cn1">David Beckham</string>
+    <string name="cast2">Vina Zaynah</string>
+    <string name="cn2">Fira Alya</string>
+    <string name="cast3">Sheila Natasha</string>
+    <string name="cn3">Alifiyah Hikmah</string>
+    <string name="ov">Overview</string>
+    <string name="change_language_settings">Change Language</string>
+
+    <string-array name="nama">
+        <item>A Star Is Born (2018)</item>
+        <item>Alita: Battle Angel (2019)</item>
+        <item>Aquaman (2018)</item>
+        <item>Bohemian Rhapsody (2018)</item>
+        <item>Cold Pursuit (2019)</item>
+        <item>Creed II (2018)</item>
+        <item>Fantastic Beasts: The Crimes of Grindelwald (2018)</item>
+        <item>Glass (2019)</item>
+        <item>How to Train Your Dragon: The Hidden World (2019)</item>
+        <item>Avengers: Infinity War (2018)</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>The quiet family life of Nels Coxman, a snowplow driver, is upended after his son\'s murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking\'s associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution</item>
+        <item>Between personal obligations and training for his next big fight against an opponent with ties to his family\'s past, Adonis Creed is up against the challenge of his life</item>
+        <item>Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world</item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless\’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup\’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+    </string-array>
+
+    <string-array name="cast">
+        <item>Lady Gaga|Ally Campana|Bradley Cooper|Jackson Maine|Sam Elliott|Bobby Maine</item>
+        <item>Rosa Salazar|Alita|Christoph Waltz|Dr. Dyson Ido|Mahershala Ali|Vector</item>
+        <item>Jason Momoa|Arthur Curry / Aquaman|Amber Heard|Mera|Willem Dafoe|Nuidis Vulko</item>
+        <item>Rami Malek|Freddie Mercury|Gwilym Lee|Brian May|Ben Hardy|Roger Taylor</item>
+        <item>Liam Neeson|Nels Coxman|Laura Dern|Grace Coxman|Tom Bateman|Trevor \'Viking\' Calcote</item>
+        <item>Michael B. Jordan|Adonis Creed|Sylvester Stallone|Robert "Rocky" Balboa Sr.|Dolph Lundgren|Ivan Drago</item>
+        <item>Eddie Redmayne|Newt Scamander|Katherine Waterston|Porpentina "Tina" Goldstein|Alison Sudol|Queenie Goldstein</item>
+        <item>James McAvoy|Kevin Wendell Crumb / Patricia / Dennis / Hedwig / The Beast / Barry / Heinrich / Jade / Ian / Mary Reynolds / Norma / Jalin / Kat / B. T. / Mr. Pritchard / Felida / Luke / Goddard / Samuel / Polly|Bruce Willis|David Dunn / The Overseer|Samuel L. Jackson|Elijah Price / Mr. Glass</item>
+        <item>Jay Baruchel|Hiccup (voice)|America Ferrera|Astrid (voice)|F. Murray Abraham|Grimmel (voice)</item>
+        <item>Robert Downey Jr.|Tony Stark / Iron Man|Chris Hemsworth|Thor Odinson|Chris Evans|Steve Rogers / Captain America</item>
+    </string-array>
+
+    <array name="poster">
+        <item>@drawable/movie_1</item>
+        <item>@drawable/movie_2</item>
+        <item>@drawable/movie_3</item>
+        <item>@drawable/movie_4</item>
+        <item>@drawable/movie_5</item>
+        <item>@drawable/movie_6</item>
+        <item>@drawable/movie_7</item>
+        <item>@drawable/movie_8</item>
+        <item>@drawable/movie_9</item>
+        <item>@drawable/movie_10</item>
+    </array>
+
+    <string-array name="status">
+        <item>Released October 5, 2018</item>
+        <item>Released February 14, 2019</item>
+        <item>Released December 21, 2018</item>
+        <item>Released October 30, 2018</item>
+        <item>Released February 8, 2019</item>
+        <item>Released November 14, 2018</item>
+        <item>Released November 16, 2018</item>
+        <item>Released January 18, 2019</item>
+        <item>Released February 22, 2019</item>
+        <item>Released April 23, 2018</item>
+    </string-array>
+
+    <string-array name="bahasa">
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="runtime">
+        <item>2h 15m</item>
+        <item>2h 2m</item>
+        <item>2h 24m</item>
+        <item>2h 15m</item>
+        <item>1h 59m</item>
+        <item>2h 10m</item>
+        <item>2h 14m</item>
+        <item>2h 9m</item>
+        <item>1h 44m</item>
+        <item>2h 29m</item>
+    </string-array>
+
+    <string-array name="budget">
+        <item>$36,000,000.00</item>
+        <item>$170,000,000.00</item>
+        <item>$170,000,000.00</item>
+        <item>$160,000,000.00</item>
+        <item>$60,000,000.00</item>
+        <item>$50,000,000.00</item>
+        <item>$200,000,000.00</item>
+        <item>$20,000,000.00</item>
+        <item>$129,000,000.00</item>
+        <item>$300,000,000.00</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>DRAMA | ROMANCE | MUSIC</item>
+        <item>ACTION | SCIENCE FICTION | THRILLER | ADVENTURE</item>
+        <item>ACTION | ADVENTURE | FANTASY</item>
+        <item>ACTION | ADVENTURE | FANTASY</item>
+        <item>ACTION | DRAMA | THRILLER | CRIME</item>
+        <item>DRAMA</item>
+        <item>ADVENTURE</item>
+        <item>THRILLER | DRAMA | SCIENCE FICTION</item>
+        <item>ANIMATION | FAMILY | ADVENTURE</item>
+        <item>ADVENTURE | ACTION | FANTASY</item>
+    </string-array>
+
+    <item name="item_click_support" type="id" />
+
+    <array name="cast1">
+        <item>@drawable/cast11</item>
+        <item>@drawable/cast12</item>
+        <item>@drawable/cast13</item>
+        <item>@drawable/cast14</item>
+        <item>@drawable/cast15</item>
+        <item>@drawable/cast16</item>
+        <item>@drawable/cast17</item>
+        <item>@drawable/cast18</item>
+        <item>@drawable/cast19</item>
+        <item>@drawable/cast110</item>
+    </array>
+    <array name="cast2">
+        <item>@drawable/cast21</item>
+        <item>@drawable/cast22</item>
+        <item>@drawable/cast23</item>
+        <item>@drawable/cast24</item>
+        <item>@drawable/cast25</item>
+        <item>@drawable/cast26</item>
+        <item>@drawable/cast27</item>
+        <item>@drawable/cast28</item>
+        <item>@drawable/cast29</item>
+        <item>@drawable/cast210</item>
+    </array>
+    <array name="cast3">
+        <item>@drawable/cast31</item>
+        <item>@drawable/cast32</item>
+        <item>@drawable/cast33</item>
+        <item>@drawable/cast34</item>
+        <item>@drawable/cast35</item>
+        <item>@drawable/cast36</item>
+        <item>@drawable/cast37</item>
+        <item>@drawable/cast38</item>
+        <item>@drawable/cast39</item>
+        <item>@drawable/cast310</item>
+    </array>
 </resources>

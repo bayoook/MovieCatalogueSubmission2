@@ -1,6 +1,7 @@
 package com.example.min4tozaki.moviecataloguesubmission2;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -44,11 +45,8 @@ public class ListMoviesAdapter extends RecyclerView.Adapter<ListMoviesAdapter.Ca
     public void onBindViewHolder(@NonNull CategoryViewHolder categoryViewHolder, int i) {
         categoryViewHolder.tvNama.setText(getListMovies().get(i).getNama());
         categoryViewHolder.tvDeskripsi.setText(getListMovies().get(i).getDeskripsi());
-
-        Glide.with(context)
-                .load(getListMovies().get(i).getPoster())
-                .apply(new RequestOptions().override(55,55))
-                .into(categoryViewHolder.imgPoster);
+        categoryViewHolder.imgPoster.setImageResource(getListMovies().get(i).getPoster());
+        categoryViewHolder.tvGenre.setText(getListMovies().get(i).getGenre());
 
     }
 
@@ -60,12 +58,16 @@ public class ListMoviesAdapter extends RecyclerView.Adapter<ListMoviesAdapter.Ca
     class CategoryViewHolder extends RecyclerView.ViewHolder {
         TextView tvNama;
         TextView tvDeskripsi;
+        TextView tvGenre;
         ImageView imgPoster;
+        RecyclerView rvCategory;
         CategoryViewHolder(View itemView) {
             super(itemView);
             tvNama = itemView.findViewById(R.id.tv_item_nama);
             tvDeskripsi = itemView.findViewById(R.id.tv_item_deskripsi);
+            tvGenre = itemView.findViewById(R.id.tv_item_genre);
             imgPoster = itemView.findViewById(R.id.img_item_poster);
+            rvCategory = itemView.findViewById(R.id.rv_category);
 
         }
     }
