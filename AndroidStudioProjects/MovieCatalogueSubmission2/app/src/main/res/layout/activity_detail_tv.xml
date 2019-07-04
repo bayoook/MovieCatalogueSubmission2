@@ -5,10 +5,44 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DetailMovies">
+    tools:context=".DetailTv">
     <android.support.constraint.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_cs1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textAlignment="center"
+            android:textSize="10sp"
+            app:layout_constraintEnd_toEndOf="@+id/tv_cn1"
+            app:layout_constraintStart_toStartOf="@+id/tv_cn1"
+            app:layout_constraintTop_toBottomOf="@+id/tv_cn1" />
+
+        <TextView
+            android:id="@+id/tv_cs2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textAlignment="center"
+            android:textSize="10sp"
+            app:layout_constraintEnd_toEndOf="@+id/tv_cn2"
+            app:layout_constraintStart_toStartOf="@+id/tv_cn2"
+            app:layout_constraintTop_toBottomOf="@+id/tv_cn2" />
+
+        <TextView
+            android:id="@+id/tv_cs3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textAlignment="center"
+            android:textSize="10sp"
+            app:layout_constraintEnd_toEndOf="@+id/tv_cn3"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="@+id/tv_cn3"
+            app:layout_constraintTop_toBottomOf="@+id/tv_cn3" />
 
         <ImageView
             android:id="@+id/img_poster"
@@ -105,19 +139,19 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="16dp"
-            android:text="@string/budg"
+            android:text="@string/type"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/img_poster"
             app:layout_constraintTop_toBottomOf="@+id/tv_runtime" />
 
         <TextView
-            android:id="@+id/tv_budget"
+            android:id="@+id/tv_type"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
-            android:text="@string/budg_2"
+            android:text="@string/scripted"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/img_poster"
             app:layout_constraintTop_toBottomOf="@+id/textView7" />
@@ -238,7 +272,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tv_cn2" />
+            app:layout_constraintTop_toBottomOf="@+id/tv_cs2" />
 
         <TextView
             android:id="@+id/tv_genre"

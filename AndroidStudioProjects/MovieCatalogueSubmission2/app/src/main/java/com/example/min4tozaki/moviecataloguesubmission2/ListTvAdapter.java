@@ -1,7 +1,6 @@
 package com.example.min4tozaki.moviecataloguesubmission2;
 
 import android.content.Context;
-import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -10,26 +9,24 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.bumptech.glide.Glide;
-import com.bumptech.glide.request.RequestOptions;
-
 import java.util.ArrayList;
+import java.util.List;
 
-public class ListMoviesAdapter extends RecyclerView.Adapter<ListMoviesAdapter.CategoryViewHolder> {
+public class ListTvAdapter extends RecyclerView.Adapter<ListTvAdapter.CategoryViewHolder>  {
     private Context context;
 
 
-    public ArrayList<Movies> getListMovies() {
-        return listMovies;
+    public ArrayList<Tvs> getListTvs() {
+        return listTvs;
     }
 
-    public void setListMovies(ArrayList<Movies> listMovies) {
-        this.listMovies = listMovies;
+    public void setListTvs(ArrayList<Tvs> listTvs) {
+        this.listTvs = listTvs;
     }
 
-    private ArrayList<Movies> listMovies;
+    private ArrayList<Tvs> listTvs;
 
-    public ListMoviesAdapter(Context context) {
+    public ListTvAdapter(Context context) {
         this.context = context;
     }
 
@@ -42,17 +39,17 @@ public class ListMoviesAdapter extends RecyclerView.Adapter<ListMoviesAdapter.Ca
     }
 
     @Override
-    public void onBindViewHolder(@NonNull CategoryViewHolder categoryViewHolder, int i) {
-        categoryViewHolder.tvNama.setText(getListMovies().get(i).getNama());
-        categoryViewHolder.tvDeskripsi.setText(getListMovies().get(i).getDeskripsi());
-        categoryViewHolder.imgPoster.setImageResource(getListMovies().get(i).getPoster());
-        categoryViewHolder.tvGenre.setText(getListMovies().get(i).getGenre());
+    public void onBindViewHolder(@NonNull ListTvAdapter.CategoryViewHolder categoryViewHolder, int i) {
+        categoryViewHolder.tvNama.setText(getListTvs().get(i).getNama());
+        categoryViewHolder.tvDeskripsi.setText(getListTvs().get(i).getDeskripsi());
+        categoryViewHolder.imgPoster.setImageResource(getListTvs().get(i).getPoster());
+        categoryViewHolder.tvGenre.setText(getListTvs().get(i).getGenre());
 
     }
 
     @Override
     public int getItemCount() {
-        return getListMovies().size();
+        return getListTvs().size();
     }
 
     class CategoryViewHolder extends RecyclerView.ViewHolder {

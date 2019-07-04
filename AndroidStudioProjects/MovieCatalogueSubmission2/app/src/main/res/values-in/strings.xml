@@ -1,31 +1,33 @@
 <resources>
-    <string name="app_name">indoXXi</string>
-    <string name="movies">Film</string>
-    <string name="tv_show">Serial TV</string>
+   <string name="app_name">Katalog</string>
+   <string name="movies">Film</string>
+   <string name="tv_show">Serial TV</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="tvFragment">TV Fragment</string>
-    <string name="nama_film">Nama Film</string>
-    <string name="deskripsi">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</string>
-    <string name="genre">Genre1, Genre2, Genre3</string>
-    <string name="genres">Genre</string>
-    <string name="date">Rilis 14 November 1997</string>
-    <string name="lang">Bahasa</string>
-    <string name="lang_2">Bahasa</string>
-    <string name="run">Durasi</string>
-    <string name="run_2">00j 00m</string>
-    <string name="budg">Anggaran</string>
-    <string name="budg_2">$xx.xxx.xxx,xx</string>
-    <string name="cast1">Rizqi Mubarak</string>
-    <string name="cn1">David Beckham</string>
-    <string name="cast2">Vina Zaynah</string>
-    <string name="cn2">Fira Alya</string>
-    <string name="cast3">Sheila Natasha</string>
-    <string name="cn3">Alifiyah Hikmah</string>
-    <string name="ov">Overview</string>
-    <string name="change_language_settings">Ganti Bahasa</string>
+   <!-- TODO: Remove or change this placeholder text -->
+   <string name="tvFragment">TV Fragment</string>
+   <string name="nama_film">Nama Film</string>
+   <string name="deskripsi">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</string>
+   <string name="genre">Genre1, Genre2, Genre3</string>
+   <string name="genres">Genre</string>
+   <string name="date">Rilis 14 November 1997</string>
+   <string name="lang">Bahasa</string>
+   <string name="lang_2">Bahasa</string>
+   <string name="run">Durasi</string>
+   <string name="run_2">00j 00m</string>
+   <string name="budg">Anggaran</string>
+   <string name="budg_2">$xx.xxx.xxx,xx</string>
+   <string name="cast1">Rizqi Mubarak</string>
+   <string name="cn1">David Beckham</string>
+   <string name="cast2">Vina Zaynah</string>
+   <string name="cn2">Fira Alya</string>
+   <string name="cast3">Sheila Natasha</string>
+   <string name="cn3">Alifiyah Hikmah</string>
+   <string name="ov">Overview</string>
+   <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="type">Tipe</string>
+    <string name="scripted">Terskipt</string>
 
-    <string-array name="nama">
+   <string-array name="nama">
         <item>A Star Is Born (2018)</item>
         <item>Alita: Battle Angel (2019)</item>
         <item>Aquaman (2018)</item>
@@ -36,148 +38,299 @@
         <item>Glass (2019)</item>
         <item>How to Train Your Dragon: The Hidden World (2019)</item>
         <item>Avengers: Infinity War (2018)</item>
-    </string-array>
+   </string-array>
 
-    <string-array name="deskripsi">
+   <string-array name="deskripsi">
         <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi dari hubungan mereka hancur, karena Jack berjuang terus-menerus dengan setan internalnya sendiri.</item>
-        <item>Ketika Alita terbangun tanpa ingatan siapa dia di dunia masa depan yang tidak dia kenal, dia dibawa oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat di cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan masa lalu yang luar biasa.</item>
-        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, setengah manusia setengah manusia, saudara setengah Atlantis dan pewaris sejati takhta.</item>
-        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock Queen Rock pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan.</item>
-        <item>Kehidupan keluarga yang tenang di Nels Coxman, seorang sopir bajak salju, menjadi kacau setelah pembunuhan putranya. Nels memulai perburuan dendam untuk Viking, raja obat bius yang ia anggap bertanggung jawab atas pembunuhan itu, menghilangkan rekan Viking satu per satu. Saat Nels semakin dekat dengan Viking, tindakannya membawa konsekuensi yang lebih tak terduga dan keras, karena ia membuktikan bahwa balas dendam adalah semua dalam eksekusi</item>
-        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya</item>
-        <item>Gellert Grindelwald telah lolos dari hukuman penjara dan mulai mengumpulkan pengikut untuk tujuannya — meninggikan para penyihir di atas semua makhluk non-magis. Satu-satunya yang mampu menghentikannya adalah penyihir yang pernah ia sebut teman terdekatnya, Albus Dumbledore. Namun, Dumbledore perlu mencari bantuan dari penyihir yang pernah menggagalkan Grindelwald sebelumnya, mantan muridnya Newt Scamander, yang setuju untuk membantu, tidak menyadari bahaya yang ada di depan. Garis digambar saat cinta dan kesetiaan diuji, bahkan di antara teman dan keluarga yang paling sejati, di dunia penyihir yang semakin terpecah</item>
-        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya</item>
-        <item>Saat Hiccup memenuhi mimpinya menciptakan utopia naga yang damai, penemuan Toothless \ dari pasangan yang liar dan sulit ditangkap menarik Night Fury pergi. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka</item>
-        <item>Saat Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih tidak pasti.</item>
-    </string-array>
+        <item>Ketika Alita terbangun tanpa ingatan siapa dia di dunia masa depan yang tidak dia kenal, dia dibawa oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat di cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan masa lalu yang luar biasa.</item>
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, setengah manusia setengah manusia, saudara setengah Atlantis dan pewaris sejati takhta.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock Queen Rock pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan.</item>
+        <item>Kehidupan keluarga yang tenang di Nels Coxman, seorang sopir bajak salju, menjadi kacau setelah pembunuhan putranya. Nels memulai perburuan dendam untuk Viking, raja obat bius yang ia anggap bertanggung jawab atas pembunuhan itu, menghilangkan rekan Viking satu per satu. Saat Nels semakin dekat dengan Viking, tindakannya membawa konsekuensi yang lebih tak terduga dan keras, karena ia membuktikan bahwa balas dendam adalah semua dalam eksekusi</item>
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya</item>
+        <item>Gellert Grindelwald telah lolos dari hukuman penjara dan mulai mengumpulkan pengikut untuk tujuannya — meninggikan para penyihir di atas semua makhluk non-magis. Satu-satunya yang mampu menghentikannya adalah penyihir yang pernah ia sebut teman terdekatnya, Albus Dumbledore. Namun, Dumbledore perlu mencari bantuan dari penyihir yang pernah menggagalkan Grindelwald sebelumnya, mantan muridnya Newt Scamander, yang setuju untuk membantu, tidak menyadari bahaya yang ada di depan. Garis digambar saat cinta dan kesetiaan diuji, bahkan di antara teman dan keluarga yang paling sejati, di dunia penyihir yang semakin terpecah</item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya</item>
+        <item>Saat Hiccup memenuhi mimpinya menciptakan utopia naga yang damai, penemuan Toothless \ dari pasangan yang liar dan sulit ditangkap menarik Night Fury pergi. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka</item>
+    <item>Saat Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih tidak pasti.</item>
+   </string-array>
 
-    <string-array name="cast">
-        <item>Lady Gaga|Ally Campana|Bradley Cooper|Jackson Maine|Sam Elliott|Bobby Maine</item>
+   <string-array name="cast">
+       <item>Lady Gaga|Ally Campana|Bradley Cooper|Jackson Maine|Sam Elliott|Bobby Maine</item>
         <item>Rosa Salazar|Alita|Christoph Waltz|Dr. Dyson Ido|Mahershala Ali|Vector</item>
-        <item>Jason Momoa|Arthur Curry / Aquaman|Amber Heard|Mera|Willem Dafoe|Nuidis Vulko</item>
-        <item>Rami Malek|Freddie Mercury|Gwilym Lee|Brian May|Ben Hardy|Roger Taylor</item>
-        <item>Liam Neeson|Nels Coxman|Laura Dern|Grace Coxman|Tom Bateman|Trevor \'Viking\' Calcote</item>
-        <item>Michael B. Jordan|Adonis Creed|Sylvester Stallone|Robert "Rocky" Balboa Sr.|Dolph Lundgren|Ivan Drago</item>
-        <item>Eddie Redmayne|Newt Scamander|Katherine Waterston|Porpentina "Tina" Goldstein|Alison Sudol|Queenie Goldstein</item>
-        <item>James McAvoy|Kevin Wendell Crumb / Patricia / Dennis / Hedwig / The Beast / Barry / Heinrich / Jade / Ian / Mary Reynolds / Norma / Jalin / Kat / B. T. / Mr. Pritchard / Felida / Luke / Goddard / Samuel / Polly|Bruce Willis|David Dunn / The Overseer|Samuel L. Jackson|Elijah Price / Mr. Glass</item>
-        <item>Jay Baruchel|Hiccup (voice)|America Ferrera|Astrid (voice)|F. Murray Abraham|Grimmel (voice)</item>
-        <item>Robert Downey Jr.|Tony Stark / Iron Man|Chris Hemsworth|Thor Odinson|Chris Evans|Steve Rogers / Captain America</item>
-    </string-array>
+       <item>Jason Momoa|Arthur Curry / Aquaman|Amber Heard|Mera|Willem Dafoe|Nuidis Vulko</item>
+       <item>Rami Malek|Freddie Mercury|Gwilym Lee|Brian May|Ben Hardy|Roger Taylor</item>
+       <item>Liam Neeson|Nels Coxman|Laura Dern|Grace Coxman|Tom Bateman|Trevor \'Viking\' Calcote</item>
+       <item>Michael B. Jordan|Adonis Creed|Sylvester Stallone|Robert "Rocky" Balboa Sr.|Dolph Lundgren|Ivan Drago</item>
+       <item>Eddie Redmayne|Newt Scamander|Katherine Waterston|Porpentina "Tina" Goldstein|Alison Sudol|Queenie Goldstein</item>
+       <item>James McAvoy|Kevin Wendell Crumb / Patricia / Dennis / Hedwig / The Beast / Barry / Heinrich / Jade / Ian / Mary Reynolds / Norma / Jalin / Kat / B. T. / Mr. Pritchard / Felida / Luke / Goddard / Samuel / Polly|Bruce Willis|David Dunn / The Overseer|Samuel L. Jackson|Elijah Price / Mr. Glass</item>
+       <item>Jay Baruchel|Hiccup (voice)|America Ferrera|Astrid (voice)|F. Murray Abraham|Grimmel (voice)</item>
+       <item>Robert Downey Jr.|Tony Stark / Iron Man|Chris Hemsworth|Thor Odinson|Chris Evans|Steve Rogers / Captain America</item>
+   </string-array>
 
-    <array name="poster">
-        <item>@drawable/movie_1</item>
-        <item>@drawable/movie_2</item>
-        <item>@drawable/movie_3</item>
-        <item>@drawable/movie_4</item>
-        <item>@drawable/movie_5</item>
-        <item>@drawable/movie_6</item>
-        <item>@drawable/movie_7</item>
-        <item>@drawable/movie_8</item>
-        <item>@drawable/movie_9</item>
-        <item>@drawable/movie_10</item>
-    </array>
+   <array name="poster">
+       <item>@drawable/movie_1</item>
+       <item>@drawable/movie_2</item>
+       <item>@drawable/movie_3</item>
+       <item>@drawable/movie_4</item>
+       <item>@drawable/movie_5</item>
+       <item>@drawable/movie_6</item>
+       <item>@drawable/movie_7</item>
+       <item>@drawable/movie_8</item>
+       <item>@drawable/movie_9</item>
+       <item>@drawable/movie_10</item>
+   </array>
 
-    <string-array name="status">
+   <string-array name="status">
         <item>Rilis 5 Oktober 2018</item>
-        <item>Rilis 14 Februari 2019</item>
-        <item>Rilis 21 Desember 2018</item>
-        <item>Rilis 30 Oktober 2018</item>
+        <item>Rilis 14 Februari 2019</item>
+        <item>Rilis 21 Desember 2018</item>
+        <item>Rilis 30 Oktober 2018</item>
         <item>Rilis 8 Februari 2019</item>
         <item>Rilis 14 November 2018</item>
         <item>Rilis 16 November 2018</item>
         <item>Rilis 18 Januari 2019</item>
         <item>Rilis 22 Februari 2019</item>
         <item>Rilis 23 April 2018</item>
-    </string-array>
+   </string-array>
 
-    <string-array name="bahasa">
-        <item>Bahasa Inggris</item>
-        <item>Bahasa Inggris</item>
-        <item>Bahasa Inggris</item>
-        <item>Bahasa Inggris</item>
-        <item>Bahasa Inggris</item>
-        <item>Bahasa Inggris</item>
-        <item>Bahasa Inggris</item>
-        <item>Bahasa Inggris</item>
-        <item>Bahasa Inggris</item>
-        <item>Bahasa Inggris</item>
-    </string-array>
+   <string-array name="bahasa">
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+   </string-array>
 
-    <string-array name="runtime">
-        <item>2j 15m</item>
-        <item>2j 2m</item>
-        <item>2j 24m</item>
-        <item>2j 15m</item>
-        <item>1j 59m</item>
-        <item>2j 10m</item>
-        <item>2j 14m</item>
-        <item>2j 9m</item>
-        <item>1j 44m</item>
-        <item>2j 29m</item>
-    </string-array>
+   <string-array name="runtime">
+       <item>2j 15m</item>
+       <item>2j 2m</item>
+       <item>2j 24m</item>
+       <item>2j 15m</item>
+       <item>1j 59m</item>
+       <item>2j 10m</item>
+       <item>2j 14m</item>
+       <item>2j 9m</item>
+       <item>1j 44m</item>
+       <item>2j 29m</item>
+   </string-array>
 
-    <string-array name="budget">
-        <item>$36,000,000.00</item>
-        <item>$170,000,000.00</item>
-        <item>$170,000,000.00</item>
-        <item>$160,000,000.00</item>
-        <item>$60,000,000.00</item>
-        <item>$50,000,000.00</item>
-        <item>$200,000,000.00</item>
-        <item>$20,000,000.00</item>
-        <item>$129,000,000.00</item>
-        <item>$300,000,000.00</item>
-    </string-array>
+   <string-array name="budget">
+       <item>$36,000,000.00</item>
+       <item>$170,000,000.00</item>
+       <item>$170,000,000.00</item>
+       <item>$160,000,000.00</item>
+       <item>$60,000,000.00</item>
+       <item>$50,000,000.00</item>
+       <item>$200,000,000.00</item>
+       <item>$20,000,000.00</item>
+       <item>$129,000,000.00</item>
+       <item>$300,000,000.00</item>
+   </string-array>
 
-    <string-array name="genre">
-<item>DRAMA | PERCINTAAN | MUSIK</item>
-<item>AKSI | FIKSI ILMIAH | THRILLER | PETUALANGAN</item>
-<item>AKSI | PETUALANGAN | FANTASI</item>
-<item>AKSI | PETUALANGAN | FANTASI</item>
-<item>AKSI | DRAMA | THRILLER | KRIMINAL</item>
-<item>DRAMA</item>
-<item>PETUALANGAN</item>
-<item>THRILLER | DRAMA | FIKSI ILMIAH</item>
-<item>ANIMASI | FAMILY | PETUALANGAN</item>
-<item>PETUALANGAN | AKSI | FANTASI</item>
-    </string-array>
+   <string-array name="genre">
+       <item>DRAMA | PERCINTAAN | MUSIK</item>
+       <item>AKSI | FIKSI ILMIAH | THRILLER | PETUALANGAN</item>
+       <item>AKSI | PETUALANGAN | FANTASI</item>
+       <item>AKSI | PETUALANGAN | FANTASI</item>
+       <item>AKSI | DRAMA | THRILLER | KRIMINAL</item>
+       <item>DRAMA</item>
+       <item>PETUALANGAN</item>
+       <item>THRILLER | DRAMA | FIKSI ILMIAH</item>
+       <item>ANIMASI | FAMILY | PETUALANGAN</item>
+       <item>PETUALANGAN | AKSI | FANTASI</item>
+   </string-array>
 
-    <item name="item_click_support" type="id" />
+   <item name="item_click_support" type="id" />
 
-    <array name="cast1">
-        <item>@drawable/cast11</item>
-        <item>@drawable/cast12</item>
-        <item>@drawable/cast13</item>
-        <item>@drawable/cast14</item>
-        <item>@drawable/cast15</item>
-        <item>@drawable/cast16</item>
-        <item>@drawable/cast17</item>
-        <item>@drawable/cast18</item>
-        <item>@drawable/cast19</item>
-        <item>@drawable/cast110</item>
-    </array>
-    <array name="cast2">
-        <item>@drawable/cast21</item>
-        <item>@drawable/cast22</item>
-        <item>@drawable/cast23</item>
-        <item>@drawable/cast24</item>
-        <item>@drawable/cast25</item>
-        <item>@drawable/cast26</item>
-        <item>@drawable/cast27</item>
-        <item>@drawable/cast28</item>
-        <item>@drawable/cast29</item>
-        <item>@drawable/cast210</item>
-    </array>
-    <array name="cast3">
-        <item>@drawable/cast31</item>
-        <item>@drawable/cast32</item>
-        <item>@drawable/cast33</item>
-        <item>@drawable/cast34</item>
-        <item>@drawable/cast35</item>
-        <item>@drawable/cast36</item>
-        <item>@drawable/cast37</item>
-        <item>@drawable/cast38</item>
-        <item>@drawable/cast39</item>
-        <item>@drawable/cast310</item>
-    </array>
+   <array name="cast1">
+       <item>@drawable/cast11</item>
+       <item>@drawable/cast12</item>
+       <item>@drawable/cast13</item>
+       <item>@drawable/cast14</item>
+       <item>@drawable/cast15</item>
+       <item>@drawable/cast16</item>
+       <item>@drawable/cast17</item>
+       <item>@drawable/cast18</item>
+       <item>@drawable/cast19</item>
+       <item>@drawable/cast110</item>
+   </array>
+   <array name="cast2">
+       <item>@drawable/cast21</item>
+       <item>@drawable/cast22</item>
+       <item>@drawable/cast23</item>
+       <item>@drawable/cast24</item>
+       <item>@drawable/cast25</item>
+       <item>@drawable/cast26</item>
+       <item>@drawable/cast27</item>
+       <item>@drawable/cast28</item>
+       <item>@drawable/cast29</item>
+       <item>@drawable/cast210</item>
+   </array>
+   <array name="cast3">
+       <item>@drawable/cast31</item>
+       <item>@drawable/cast32</item>
+       <item>@drawable/cast33</item>
+       <item>@drawable/cast34</item>
+       <item>@drawable/cast35</item>
+       <item>@drawable/cast36</item>
+       <item>@drawable/cast37</item>
+       <item>@drawable/cast38</item>
+       <item>@drawable/cast39</item>
+       <item>@drawable/cast310</item>
+   </array>
+   <string-array name="nama_tv">
+       <item>Arrow (2012)</item>
+       <item>Doom Patrol (2019)</item>
+       <item>Dragon Ball (1986)</item>
+       <item>Fairy Tail (2009)</item>
+       <item>Family Guy (1999)</item>
+       <item>The Flash (2014)</item>
+       <item>Game of Thrones (2011)</item>
+       <item>Gotham (2014)</item>
+       <item>Grey\'s Anatomy (2005)</item>
+       <item>Hanna (2019)</item>
+   </string-array>
+
+   <string-array name="deskripsi_tv">
+       <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas saat kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
+       <item>Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena paling aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan.</item>
+       <item>Dahulu di gunung, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang anak aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Lalu suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk bola naga membawanya ke rumah Goku. Bersama-sama, mereka berangkat untuk menemukan ketujuh bola naga dalam sebuah petualangan yang akan mengubah hidup Goku selamanya. Lihat bagaimana Goku bertemu teman-teman seumur hidupnya Bulma, Yamcha, Krillin, Master Roshi dan banyak lagi. Dan lihat petualangannya sebagai anak laki-laki, semuanya mengarah ke Dragonball Z dan kemudian Dragonball GT.</item>
+       <item>Lucy adalah gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan sembarang anak biasa, dia adalah anggota dari salah satu serikat penyihir paling terkenal di dunia: Fairy Tail.</item>
+       <item>Seri animasi manis, aneh, terpelintir, dan tidak benar Freakin menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang brilian tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film ). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sambil menghirup Martinis dan memilah-milah masalah hidupnya sendiri.</item>
+       <item>Setelah akselerator partikel menyebabkan badai hebat, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat, tetapi tidak lama sebelum dunia mengetahui apa yang menjadi Barry Allen… The Flash.</item>
+       <item>Tujuh keluarga bangsawan berjuang untuk menguasai tanah mitos Westeros. Gesekan antara rumah-rumah mengarah ke perang skala penuh. Semua sementara kejahatan yang sangat kuno terbangun di utara terjauh. Di tengah-tengah perang, perintah militer yang diabaikan, Night\'s Watch, adalah satu-satunya yang berdiri di antara ranah manusia dan kengerian es di luarnya.</item>
+       <item>Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui dari kisah Gordon dan kebangkitannya dari detektif pemula menjadi Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?</item>
+       <item>Mengikuti kehidupan pribadi dan profesional sekelompok dokter di Rumah Sakit Gray Sloan Memorial di Seattle.</item>
+       <item>Drama thriller dan usia dewasa ini mengikuti perjalanan seorang gadis muda yang luar biasa saat ia menghindari pengejaran tanpa henti dari seorang agen CIA yang tidak ada buku dan mencoba untuk menggali kebenaran di balik siapa dirinya. Berdasarkan film Joe Wright 2011.</item>
+   </string-array>
+
+   <string-array name="cast_tv">
+       <item>Stephen Amell|Oliver Queen|160 Episode|Emily Bett Rickards|Felicity Smoak|160 Episode|David Ramsey|John Diggle|160 Episode</item>
+       <item>Timothy Dalton|Dr. Niles Caulder / The Chief|15 Episode|Matt Bomer|Negative Man (voice) / Larry Trainor|15 Episode|Brendan Fraser|Robotman (voice) / Cliff Steele|15 Episode</item>
+       <item>Masako Nozawa|Son Goku (voice)|153 Episode|Mayumi Tanaka|Krillin (voice)|153 Episode|Hiromi Tsuru|Bulma (voice)|153 Episode</item>
+       <item>Tetsuya Kakihara|Natsu Dragneel (voice)|315 Episode|Aya Hirano|Lucy Heartfilia (voice)|315 Episode|Rie Kugimiya|Happy (voice)|315 Episode</item>
+       <item>Seth MacFarlane|Peter Griffin / Brian Griffin / Stewie Griffin / Glenn Quagmire / Tom Tucker / God / Kool-Aid Guy (voice),|328 Episode|Alex Borstein|Marguerite Pewterschmidt, Lois Griffin (voice), Tricia Takanawa, Loretta Brown, Barbara Pewterschmidt,|328 Episode|Mila Kunis|Meg Griffin (voice)|328 Episode</item>
+       <item>Grant Gustin|Barry Allen / The Flash|115 Episode|Candice Patton|Iris West|115 Episode|Carlos Valdes|Cisco Ramon, Reverb|115 Episode</item>
+       <item>Emilia Clarke|Daenerys Targaryen|73 Episode|Kit Harington|Jon Snow|73 Episode|Peter Dinklage|Tyrion Lannister|73 Episode</item>
+       <item>Ben McKenzie|James Gordon|100 Episode|Donal Logue|Harvey Bullock|100 Episode|David Mazouz|Bruce Wayne / 514A|100 Episode</item>
+       <item>Ellen Pompeo|Meredith Grey|341 Episode|Justin Chambers|Alex Karev|341 Episode|James Pickens Jr.|Richard Webber|341 Episode</item>
+       <item>Esme Creed-Miles|Hanna|8 Episode|Joel Kinnaman|Erik|8 Episode|Mireille Enos|Marissa|8 Episode</item>
+   </string-array>
+
+   <array name="poster_tv">
+       <item>@drawable/tv_1</item>
+       <item>@drawable/tv_2</item>
+       <item>@drawable/tv_3</item>
+       <item>@drawable/tv_4</item>
+       <item>@drawable/tv_5</item>
+       <item>@drawable/tv_6</item>
+       <item>@drawable/tv_7</item>
+       <item>@drawable/tv_8</item>
+       <item>@drawable/tv_9</item>
+       <item>@drawable/tv_10</item>
+   </array>
+
+   <string-array name="status_tv">
+       <item>Seri Kembali</item>
+       <item>Seri Kembali</item>
+       <item>Berakhir</item>
+       <item>Seri Kembali</item>
+       <item>Seri Kembali</item>
+       <item>Seri Kembali</item>
+       <item>Berakhir</item>
+       <item>Berakhir</item>
+       <item>Seri Kembali</item>
+       <item>Seri Kembali</item>
+   </string-array>
+
+   <string-array name="type_tv">
+       <item>Ditulis</item>
+       <item>Ditulis</item>
+       <item>Ditulis</item>
+       <item>Ditulis</item>
+       <item>Ditulis</item>
+       <item>Ditulis</item>
+       <item>Ditulis</item>
+       <item>Ditulis</item>
+       <item>Ditulis</item>
+       <item>Ditulis</item>
+   </string-array>
+   <string-array name="bahasa_tv">
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Jepang</item>
+       <item>Jepang</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+       <item>Inggris</item>
+   </string-array>
+   <string-array name="runtime_tv">
+       <item>42m</item>
+       <item>60m</item>
+       <item>25m</item>
+       <item>25m</item>
+       <item>22m</item>
+       <item>44m</item>
+       <item>60m</item>
+       <item>43m, 60m</item>
+       <item>43m</item>
+       <item>50m</item>
+   </string-array>
+   <string-array name="genre_tv">
+       <item>KRIMINAL | DRAMA | MISTERI | AKSI &amp; PETUALANGAN</item>
+       <item>FIKSI ILMIAH &amp; FANTASI | AKSI &amp; PETUALANGAN</item>
+       <item>KOMEDI | FIKSI ILMIAH &amp; FANTASI | ANIMASI | AKSI &amp; PETUALANGAN</item>
+       <item>AKSI &amp; PETUALANGAN | ANIMASI | KOMEDI | FIKSI ILMIAH &amp; FANTASI</item>
+       <item>ANIMASI | KOMEDI</item>
+       <item>DRAMA | FIKSI ILMIAH &amp; FANTASI</item>
+       <item>FIKSI ILMIAH &amp; FANTASI | DRAMA | AKSI &amp; PETUALANGAN</item>
+       <item>DRAMA | FANTASI | KRIMINAL</item>
+       <item>DRAMA</item>
+       <item>AKSI &amp; PETUALANGAN | DRAMA</item>
+   </string-array>
+   <array name="cast1_tv">
+       <item>@drawable/casttv11</item>
+       <item>@drawable/casttv12</item>
+       <item>@drawable/casttv13</item>
+       <item>@drawable/casttv14</item>
+       <item>@drawable/casttv15</item>
+       <item>@drawable/casttv16</item>
+       <item>@drawable/casttv17</item>
+       <item>@drawable/casttv18</item>
+       <item>@drawable/casttv19</item>
+       <item>@drawable/casttv110</item>
+   </array>
+   <array name="cast2_tv">
+       <item>@drawable/casttv21</item>
+       <item>@drawable/casttv22</item>
+       <item>@drawable/casttv23</item>
+       <item>@drawable/casttv24</item>
+       <item>@drawable/casttv25</item>
+       <item>@drawable/casttv26</item>
+       <item>@drawable/casttv27</item>
+       <item>@drawable/casttv28</item>
+       <item>@drawable/casttv29</item>
+       <item>@drawable/casttv210</item>
+   </array>
+   <array name="cast3_tv">
+       <item>@drawable/casttv31</item>
+       <item>@drawable/casttv32</item>
+       <item>@drawable/casttv33</item>
+       <item>@drawable/casttv34</item>
+       <item>@drawable/casttv35</item>
+       <item>@drawable/casttv36</item>
+       <item>@drawable/casttv37</item>
+       <item>@drawable/casttv38</item>
+       <item>@drawable/casttv39</item>
+       <item>@drawable/casttv310</item>
+   </array>
+
 </resources>
+

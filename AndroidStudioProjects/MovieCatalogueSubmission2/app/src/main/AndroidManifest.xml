@@ -13,9 +13,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".DetailMovies"
-            android:parentActivityName=".MainActivity">
-        </activity>
+        <activity
+            android:name=".DetailTv"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DetailMovies"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name">
